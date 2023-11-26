@@ -1,4 +1,4 @@
-import orderByProps from '../orderByProps';
+import orderByProps from '../js/orderByProps';
 
 test("Sort by 2 props", () => {
   const obj = {
